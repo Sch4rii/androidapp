@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingPro+</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_sort">Sort List</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_clear_artikel">Clear Item</string>
+    <string name="action_clear_shop">Clear Item</string>
+    <string name="action_add_shop">Add Shop</string>
+</resources>

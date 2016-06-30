@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList2.0</string>
+    <string name="action_sort">Sort List</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_clear">Clear Item</string>
+    <string name="lblBtnDel">Delete Selected Items</string>
+</resources>
